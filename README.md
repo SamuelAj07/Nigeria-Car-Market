@@ -37,7 +37,7 @@ A web source data from *CAR45.COM*
 
 ## Tools Used
 
-1. Excel - Pivot table and Pivot charts
+1.  Excel - Pivot table and Pivot charts
    
 2. Power Query - ETL
    
@@ -55,27 +55,45 @@ A web source data from *CAR45.COM*
 
 The dataset includes the following columns:
 
-i. S/N
+i. Column 
+
 ii. Description	
+
 iii. Amount	
+
 iv. State	
+
 v. Cities	
+
 vi. Make	
+
 vii. Model	
+
 viii. Year_of_make	
+
 ix. Color	
+
 x. Condition	
+
 xi Mileage	
+
 xii. Engine_size	
-xiii. Selling_cond	
+
+xiii. Selling_cond
+
 xiv. Bought_cond
+
 xv. Transmission
 
-Total Data Records is 2894
+**Total Data Records** is 2894
 
 ## Tabular Overview 
 
-A brief overview of the tabular datasets to be analyzed. The first 5 Colums are displayed below. 
+A brief overview of the tabular datasets to be analyzed. The first 5 Columns are displayed below. 
+
+Column|Description|Amount|State|Cities|Make|Model|Year_of_make|Color|Condition|Mileage|Engine_size|Selling_cond|Bought_cond|Transmission|
+|-----|----|-----|-----|-----|----|-----|-----|-----|----|-----|-----|-----|----|-----|
+
 
 ## ASK
 
