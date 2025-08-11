@@ -15,7 +15,7 @@
 
 [Tabular Overview](#tabular-overview) 
 
-[ASK](#ask)
+[Business Ask](#business-ask)
 
 [Dashoard](#dashboard)
 
@@ -27,15 +27,15 @@
 
 ---
 
-## Project Overview
+## 📝 Project Overview
 
 This project presents an end-to-end analysis and dashboard visualization of car sales distribution across Nigeria. Leveraging Excel pivot tables and dynamic visuals, the analysis uncovers key insights in vehicle brands, colors, transmission types, pricing, mileage, engine specs, and regional demand.
 
-## Data Sources
+## 🔗 Data Sources
 
 A web source data from *CAR45.COM*
 
-## Tools Used
+## 🛠 Tools Used
 
 1.  Excel - Pivot table and Pivot charts
    
@@ -43,7 +43,7 @@ A web source data from *CAR45.COM*
    
 3. Dashboard design 
 
-## Data Cleaning 
+## 🧩 Data Cleaning 
 
 - Import data 
 - Replace values 
@@ -51,55 +51,80 @@ A web source data from *CAR45.COM*
 - Merges columns
 - Change data type
    
-## Data Overview 
+## 🤔 Data Overview 
 
 The dataset includes the following columns:
 
-i. Column 
+i. Column: Serial identifier for each record 
 
-ii. Description	
+ii. Description: Brief details about vehicle being sold
 
-iii. Amount	
+iii. Amount: Sale price of the car in local currency 	
 
-iv. State	
+iv. State: Nigerian state where the car is sold
 
-v. Cities	
+v. Cities: Specific city location 	
 
-vi. Make	
+vi. Make: Manufacturer of the car 	
 
-vii. Model	
+vii. Model: Specific model name of the vehicle
 
-viii. Year_of_make	
+viii. Year_of_make: Year car was manufactured
 
-ix. Color	
+ix. Color: Exterior color of the vehicle
 
-x. Condition	
+x. Condition: Overall state of the car
 
-xi Mileage	
+xi Mileage: Distance the car has travelled 
 
-xii. Engine_size	
+xii. Engine_size: Capacity of the engine
 
-xiii. Selling_cond
+xiii. Selling_condition: Vehicle's condition at the time of sale
 
-xiv. Bought_cond
+xiv. Bought_condition:  Vehicle's condition when originally purchased
 
-xv. Transmission
+xv. Transmission: Gear System type
 
 **Total Data Records** is 2894
 
-## Tabular Overview 
+## 📑 Tabular Overview 
 
 A brief overview of the tabular datasets to be analyzed. The first 5 Columns are displayed below. 
 
-Column|Description|Amount|State|Cities|Make|Model|Year_of_make|Color|Condition|Mileage|Engine_size|Selling_cond|Bought_cond|Transmission|
+Column|Description|Amount|State|Cities|Make|Model|Year_of_make|Color|Condition|Mileage|Engine_size|Selling_condition|Bought_condition|Transmission|
 |-----|----|-----|-----|-----|----|-----|-----|-----|----|-----|-----|-----|----|-----|
+0|	Lexus ES 350 FWD 2013 Red|	12937500|	Lagos|	Ikeja|	Lexus|	ES|	2013|	Red|	Foreign Used|	27247|	3500|	Imported| Imported|Automatic|
+1	|Land Rover Range Rover 2012 White|	6750000|	Federal Capital Territory|	Garki2|	Land Rover|	Range Rover|	2012|	White|	Nigerian Used|	10228|	5000|	Registered|	Registered|Automatic|
+2	|Toyota Sequoia 2018 Black|	50625000|	Lagos|	Lekki|	Toyota|	Sequoia|	2018|	Black|	Foreign Used|	12739|	5700|	Imported|	Imported|Automatic|
+3|	Toyota Corolla 2007 Green|	3600000|	Federal Capital Territory|	LugbeDistrict|	Toyota|	Corolla|	2007|	Green|	Nigerian Used|	13968|	1800|	Registered|	Registered| Automatic|
+4|	Mercedes-Benz M Class 2005 Silver|	3262500|	Lagos|	Isolo|	Mercedes-Benz|	M Class|	2005|	Silver|	Nigerian Used|	22061|	3500|	Registered|	Imported|Automatic|
 
 
-## ASK
 
-## Dashboard
 
-## Actionable Insights
+## 💰Business Ask
+
+🔴 What are the KPIs
+
+🔴 Which car brands are the most purchased in Nigeria?
+
+🔴 What are the most popular car models by average sale price?
+
+🔴 Which states and cities record the highest car sales volumes?
+
+🔴 What are the most preferred car colors among buyers?
+
+🔴 What is the market share between automatic and manual transmission?
+
+🔴 How do car conditions affect pricing?
+
+🔴 What regions present growth opportunities for dealerships?. 
+
+
+
+## 🚀 Dashboard
+
+## 🔍 Actionable Insights
 
 🔹 KPI
 
@@ -136,7 +161,7 @@ Coaster and Suburban have the lowest average prices at ₦32M and ₦28M respect
 Lagos has the highest car distribution by state with a total units of 1452. FCT (654) and Oyo (270) follow distantly.
 
 
-## Strategic Recommendations
+## 💡 Strategic Recommendations
 
 ✅ Maintain a larger inventory (85-90%) of automatic cars to serve the dominant market while keeping a small but targeted stock models for budget-conscious and niche buyers, ensuring broad customer coverage and steady sales.
    
@@ -154,6 +179,6 @@ Offer color customization services for less popular colors upon special request.
 
 Promote outreach programs and budget friendly cars to under-represented states 
 
-## Refrences 
+## 📍 Refrences 
 
 Freedom Oboh
