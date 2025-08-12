@@ -124,11 +124,19 @@ Column|Description|Amount|State|Cities|Make|Model|Year_of_make|Color|Condition|M
 
 ## 🚀 Dashboard
 
+Car Summarization Visuals 
+
 <img width="1545" height="517" alt="Screenshot (213)" src="https://github.com/user-attachments/assets/a817e7a0-b8ab-492b-ac84-1a37488e0980" />
+
+Sliced by "brand new condition" 
 
 <img width="1535" height="514" alt="Screenshot (214)" src="https://github.com/user-attachments/assets/c2ad6780-c564-44fd-8a03-afdb828389e9" />
 
+Sliced by "Foreign used condition" 
+
 <img width="1534" height="511" alt="Screenshot (215)" src="https://github.com/user-attachments/assets/8d30c8f3-197e-4102-86c3-c949c0ea2b26" />
+
+Sliced by "Nigerian used condition" 
 
 <img width="1531" height="511" alt="Screenshot (216)" src="https://github.com/user-attachments/assets/c445dc7b-6364-459f-b469-d18261a9b687" />
 
