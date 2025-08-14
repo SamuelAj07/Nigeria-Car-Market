@@ -37,11 +37,13 @@ A web source data from *CAR45.COM*
 
 ## 🛠 Tools Used
 
-1.  Excel - Pivot table and Pivot charts
+1.  Excel
+
+      - [Pivot table]()
    
-2. Power Query - ETL
+3. Power Query - ETL
    
-3. Dashboard design 
+4. Dashboard design 
 
 ## 🧩 Data Cleaning 
 
