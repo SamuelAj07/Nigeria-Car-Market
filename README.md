@@ -39,7 +39,7 @@ A web source data from *CAR45.COM*
 
 1.  Excel
 
-      - [Pivot table]()
+      - [Pivot table](https://ibb.co/GQtDQcs2)
    
 3. Power Query - ETL
    
